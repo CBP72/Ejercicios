@@ -131,6 +131,7 @@
                 ["Envy Recline 23-k301ns","1399.00","A36109494","pavillon-500-354ns.jpg"],
                 ["Pavilion 500-354ns","499.00","A36109494","pavillon-500-354ns.jpg"],
             ];
+            
            
         
             $tabla="";
